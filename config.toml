@@ -1,6 +1,6 @@
 baseURL = "https://rightinchrist.github.io/dr-brooke-goldner/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "en"
+defaultContentLanguage = "en"
 
 title = "Dr. Brooke Goldner"
 # copyright = "Copy, _right?_ :thinking_face:"
