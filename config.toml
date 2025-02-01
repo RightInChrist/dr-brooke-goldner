@@ -57,6 +57,7 @@ disableKinds = ["taxonomy", "term"]
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
     { website = { href = "https://goodbyelupus.com/", text = "Official Website" } },
+    { website = { href = "https://linktr.ee/goodbyelupus", text = "Link Tree" } },
     { instagram = { href = "https://www.instagram.com/goodbyelupus/", text = "Instagram" } },
     { youtube = { href = "https://www.youtube.com/@BrookeGoldnerMD", text = "YouTube" } },
     { x = { href = "https://x.com/VeganMedicalDoc", text = "X formerly Twitter" }},
