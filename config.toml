@@ -60,7 +60,7 @@ disableKinds = ["taxonomy", "term"]
     { website = { href = "https://linktr.ee/goodbyelupus", text = "Link Tree" } },
     { instagram = { href = "https://www.instagram.com/goodbyelupus/", text = "Instagram" } },
     { youtube = { href = "https://www.youtube.com/@BrookeGoldnerMD", text = "YouTube" } },
-    { x = { href = "https://x.com/VeganMedicalDoc", text = "X formerly Twitter" }},
+    { x = { href = "https://x.com/VeganMedicalDoc", text = "formerly Twitter" }},
     { website = {href = "https://www.forksoverknives.com/contributors/brooke-goldner-md/", text = "Forks Over Knives" }},
     { website = {href = "https://podcasts.apple.com/us/podcast/brooke-goldner-md-healing-lupus-and-autoimmune/id1031359815?i=1000473799622", text = "Chris Beat Cancer"}},
   ]
